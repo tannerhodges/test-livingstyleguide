@@ -1,0 +1,8 @@
+@import 'compass';
+
+.test {
+    $img: 'test.png';
+    background: image-url($img) center / cover no-repeat;
+    width: image-width($img);
+    height: image-height($img);
+}

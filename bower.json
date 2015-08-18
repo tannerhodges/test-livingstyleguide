@@ -1,0 +1,25 @@
+{
+  "name": "test-livingstyleguide",
+  "version": "0.0.0",
+  "homepage": "http://github.com/tannerhodges/test-livingstyleguide",
+  "authors": [
+    "Tanner Hodges <austintannerhodges@gmail.com>"
+  ],
+  "description": "Test LivingStyleGuide throwing errors on Compass image helpers.",
+  "main": "assets/global.scss",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "html5-boilerplate": "~5.2.0"
+  }
+}

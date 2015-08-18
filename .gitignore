@@ -1,0 +1,4 @@
+.ruby-version
+assets/bower_components/
+Gemfile.lock
+node_modules/
